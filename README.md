@@ -1,18 +1,25 @@
-### Hi there 👋
-🌱 You can call me Kiki!
+# Hi there 👋, You can call me Kiki!
 
-🔭 I’m currently studying in software engineering program, Kasetsart university.
+😄 I’m currently studying in third year of software engineering program, Kasetsart university.
 
-<!--
-**kikikrittamate/kikikrittamate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##My technical skills	
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Data Management 
 
+Database design & Data Warehouse, Visualization of data insights
+
+###Programming Tools 
+
+JavaScript, Python, Python-Django, HTML,CSS, Bootstrap,  C, C+, Jupyter Notebook, MySQL, Azure Studio, Power BI, Arduino, Postma
+			
+###Core Skills 
+
+Github, Agile Methodology, Google slide, Canva, MS Excel, MS Word, MS slide		
+
+###Language 
+
+Native Thai, English
+
+###Knowledge Management 
+
+Protege, SWRL, Ontology
