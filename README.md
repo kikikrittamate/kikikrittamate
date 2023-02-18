@@ -11,14 +11,6 @@ Database design & Data Warehouse, Visualization of data insights
 ### Programming Tools 
 
 JavaScript, Python, Python-Django, HTML,CSS, Bootstrap,  C, C+, Jupyter Notebook, MySQL, Azure Studio, Power BI, Arduino, Postman
-			
-### Core Skills 
-
-Github, Agile Methodology, Google slide, Canva, MS Excel, MS Word, MS slide		
-
-### Language 
-
-Native Thai, English
 
 ### Knowledge Management 
 
