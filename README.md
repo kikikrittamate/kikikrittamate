@@ -1,8 +1,8 @@
-# Hi there 👋, You can call me Kiki!
+# 👋 Hi there, You can call me Kiki!
 
-😄 I’m currently studying in third year of software engineering program, Kasetsart university.
+I’m currently studying in third year of software engineering program, Kasetsart university.
 
-## My technical skills	
+## My technical skills 😄 	
 
 ### Data Management 
 
