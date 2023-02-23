@@ -2,7 +2,7 @@
 
 I’m currently studying in third year of software engineering program, Kasetsart university.
 
-## My technical skills 😄 	
+## My technical skills 🛠 	
 
 ### Data Management 
 
