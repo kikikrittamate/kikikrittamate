@@ -4,14 +4,14 @@ I’m currently studying in third year of software engineering program, Kasetsar
 
 ## My technical skills 🛠 	
 
-### Data Management 
+### - Data Management 
 
 Database design & Data Warehouse, Visualization of data insights
 
-### Programming Tools 
+### - Programming Tools 
 
 JavaScript, Python, Python-Django, HTML,CSS, Bootstrap,  C, C++, Jupyter Notebook, MySQL, Azure Studio, Power BI, Arduino, Postman
 
-### Knowledge Management 
+### - Knowledge Management 
 
 Protege, SWRL, Ontology
